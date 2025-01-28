@@ -1,2 +1,7 @@
-# Fantasy Premier League
-This repository contains my Fantasy Premier League related projects.
+# New repo
+Repository containing files to [].
+
+- data - Data.
+- docs - Documentation.
+- outputs - Outut from code.
+- src - Source code.
