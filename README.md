@@ -1,2 +1,10 @@
-# Fantasy Premier League
-This repository contains my Fantasy Premier League related projects.
+# Excel FPL Model
+Repository containing files to create an Excel FPL Model.
+
+- data - Data.
+- docs - Documentation.
+- outputs - Outut from code.
+- src - Source code.
+
+### To do
+- [ ] Add image
